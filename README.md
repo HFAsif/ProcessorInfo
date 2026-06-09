@@ -1,4 +1,5 @@
 # ProcessorInfo
 Get processor Infos
 
-<img width="980" height="512" alt="{F5680B3C-097F-4A5D-91C7-9537B7F2404E}" src="https://github.com/user-attachments/assets/f75701c9-3322-42b4-9b7a-f728f26a79fb" />
+<img width="976" height="511" alt="{AE38C354-B841-4C03-90B0-16E2735F35FC}" src="https://github.com/user-attachments/assets/0d7e8c64-9ea4-442a-9a98-403cb4bc8557" />
+
